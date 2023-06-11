@@ -1,5 +1,3 @@
-<h1 align="center">Sumuen🐱</h1>
+### Hello there! 👋
 
-<p align="center">
-  Keep coding
-</p>
+I'm Sumuen🐱, and I started programming at the age of 20. Welcome to my GitHub profile!
