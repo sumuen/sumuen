@@ -14,5 +14,6 @@
 <img src="data:null;," width="100%" height="0" align="left" alt="">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://terkelg.sumuen.workers.dev?section=main&theme=dark">
-  <img src="https://terkelg.sumuen.workers.dev?section=main&theme=light" alt="I'm Sumuen, and I started programming at the age of 20. I am currently learning Node.js. Welcome to my GitHub profile!" width="100%" height="320" align="left">
+  <img src="https://terkelg.sumuen.workers.dev?section=main&theme=light" alt="I'm Sumuen, and I started programming at the age of 20. I am currently learning Node.js. Welcome to my GitHub profile!" width="100%" height="250" align="left">
 </picture>
+<br>
