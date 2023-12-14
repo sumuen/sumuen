@@ -35,19 +35,19 @@ const svg = (styles: string, html: string, attributes: Attributes) => {
 export const shared = /* css */ `
 	:root {
 		--color-text-light: #000000;
-		--color-dot-bg-0-light: #ffffff;
-		--color-dot-bg-1-light: #dcdcdc;
-		--color-dot-bg-2-light: #a9a9a9;
-		--color-dot-bg-3-light: #696969;
-		--color-dot-bg-4-light: #000000;
+		--color-dot-bg-0-light: #EBEDF0;
+		--color-dot-bg-1-light: #9BE9A8;
+		--color-dot-bg-2-light: #40C463;
+		--color-dot-bg-3-light: #30A14E;
+		--color-dot-bg-4-light: #216E39;
 		--color-dot-border-light: rgb(0 0 0 / 0.06);
 
 		--color-text-dark: #dcdcdc;
-		--color-dot-bg-0-dark: #000000;
-		--color-dot-bg-1-dark: #696969;
-		--color-dot-bg-2-dark: #696969;
-		--color-dot-bg-3-dark: #a9a9a9;
-		--color-dot-bg-4-dark: #dcdcdc;
+		--color-dot-bg-0-dark: #dcdcdc;
+		--color-dot-bg-1-dark: #9BE9A8;
+		--color-dot-bg-2-dark: #40C463;
+		--color-dot-bg-3-dark: #30A14E;
+		--color-dot-bg-4-dark: #216E39;
 		--color-dot-border-dark: rgb(0 0 0 / 0.06);
 
 		/* Initial animation offset... */
