@@ -2,7 +2,7 @@ import type { Year } from './worker';
 
 const BP_MEDIUM = 550;
 const BP_LARGE = 700;
-const BODY_COPY = `I am currently learning react. Welcome to my GitHub profile!`;
+const BODY_COPY = `I am currently learning react and python. Have a nice day!`;
 
 interface Props {
   width?: number;
