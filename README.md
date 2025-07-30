@@ -1,4 +1,4 @@
-<a href="https://muzi.studio/">
+<a href="https://linux.do/u/muzi2/summary">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://sumuen.sumuen.workers.dev?section=link-website&theme=dark" label="Visit">
     <img src="https://sumuen.sumuen.workers.dev?section=link-website&theme=light&i=0" alt="visit my website" width="100" height="18px" align="left">
