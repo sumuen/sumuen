@@ -5,12 +5,6 @@
   </picture>
 </a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
-<a href="https://twitter.com/muzi93040929">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://sumuen.sumuen.workers.dev?section=link-twitter&theme=dark">
-    <img src="https://sumuen.sumuen.workers.dev?section=link-twitter&theme=light&i=1" alt="visit my Twitter/X profile" width="100" height="18" align="left">
-  </picture>
-</a>
 <img src="data:null;," width="100%" height="0" align="left" alt="">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://sumuen.sumuen.workers.dev?section=main&theme=dark">
