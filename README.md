@@ -25,8 +25,3 @@
   <img height="160" src="https://github-stats-extended.vercel.app/api?username=sumuen&show_icons=true&hide_border=true" />
   <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sumuen&layout=compact&hide_border=true" />
 </p>
-
-
----
-
-📍 杭州 Hangzhou
