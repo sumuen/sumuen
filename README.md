@@ -1,14 +1,32 @@
-<a href="https://linux.do/u/muzi2/summary">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://sumuen.sumuen.workers.dev?section=link-website&theme=dark" label="Visit">
-    <img src="https://sumuen.sumuen.workers.dev?section=link-website&theme=light&i=0" alt="visit my website" width="100" height="18px" align="left">
-  </picture>
-</a>
-<img src="data:null;," width="100%" height="0" align="left" alt="">
-<img src="data:null;," width="100%" height="0" align="left" alt="">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://sumuen.sumuen.workers.dev?section=main&theme=dark">
-  <img src="https://sumuen.sumuen.workers.dev?section=main&theme=light" alt="I'm Sumuen, and I started programming at the age of 20. I am currently learning Node.js. Welcome to my GitHub profile!" width="100%" height="300" align="left">
-</picture>
+# Hi 👋 我是小沐 / Xiao Mu
+
+> 📍 杭州 Hangzhou · 小公司初级程序员 · Junior dev by day, AI tinkerer by night
+
+## 🌱 在做 / 在学 — What I'm into
+
+- **LLM 推理部署与调优** / LLM Serving & Optimization：sglang / vLLM / FreeToken，FP8 量化、投机解码、长上下文压测——把 125B MoE 模型塞进单张 48G 显卡里跑起来过 *(squeezed a 125B MoE onto a single 48GB GPU)*
+- **后端开发** / Backend：Java / Spring Cloud / Python / Vue
+- **运维与网络** / Ops & Networking：Linux、Docker、OPNsense、WireGuard、Proxmox
+
+## 🤖 AI 原生工作流 — AI-native Workflow
+
+日常开发和运维是和一支 AI agent 团队一起完成的：它们操作服务器、写代码、跑测试、排查故障，我负责拍板和验收。
+*I work with a fleet of AI agents — they run the servers, write code, and troubleshoot; I make the calls.*
+跟它们学到的网络知识比教科书还多。这个 README 也是 agent 起草的。*(Yes, this README was drafted by an agent.)*
+
+## 🛠️ 常玩的技术 — Toolbox
+
+`Java` `Python` `Vue` `Docker` `MySQL` `Redis` `Linux`
+`sglang` `vLLM` `FreeToken` `OPNsense` `WireGuard` `Proxmox`
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumuen&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumuen&layout=compact&hide_border=true" />
+</p>
 
 
+---
+
+📍 杭州 Hangzhou
