@@ -4,8 +4,8 @@
 
 ## 🌱 在做 / 在学 — What I'm into
 
-- **LLM 推理部署与调优** / LLM Serving & Optimization：sglang / vLLM / FreeToken，FP8 量化、投机解码、长上下文压测——把 125B MoE 模型塞进单张 48G 显卡里跑起来过 *(squeezed a 125B MoE onto a single 48GB GPU)*
-- **后端开发** / Backend：Java / Spring Cloud / Python / Vue
+- **LLM 推理部署与调优** / LLM Serving & Optimization：sglang / vLLM / FreeToken，FP8 量化、MTP、Dspark、 CudaGraph
+- **后端开发** / Backend：Python / Vue
 - **运维与网络** / Ops & Networking：Linux、Docker、OPNsense、WireGuard、Proxmox
 
 ## 🤖 AI 原生工作流 — AI-native Workflow
@@ -16,14 +16,14 @@
 
 ## 🛠️ 常玩的技术 — Toolbox
 
-`Java` `Python` `Vue` `Docker` `MySQL` `Redis` `Linux`
+`Python` `Vue` `Docker` `MySQL` `Redis` `Linux`
 `sglang` `vLLM` `FreeToken` `OPNsense` `WireGuard` `Proxmox`
 
 ## 📊 GitHub Stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sumuen&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumuen&layout=compact&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=sumuen&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sumuen&layout=compact&hide_border=true" />
 </p>
 
 
